@@ -26,30 +26,14 @@
 \pagestyle{fancy}
 \fancyhead{}
 \fancyhead[CE]{\fontsize{11}{12}\selectfont\textsc{De Imitatione Christi}}
-\fancyhead[CO]{\fontsize{11}{12}\selectfont\textsc{Liber \rightmark}}
+\fancyhead[CO]{\fontsize{11}{12}\selectfont\textsc{Liber \leftmark, caput \rightmark}}
 \fancyfoot[CE,CO]{\fontsize{11}{12}\selectfont\thepage}
-\renewcommand{\sectionmark}[1]{\markright{#1}}
 \renewcommand{\headrulewidth}{0.3pt}
 \renewcommand{\footrulewidth}{0pt}
 \renewcommand{\headrule}{\vbox to 6pt{\hbox to\headwidth{\hrulefill}\vss}}
 \setlength{\parindent}{0cm}
 \setlength{\headsep}{0.2cm} % Distance entre le header et le corps du texte.
 \setlength{\footskip}{0.6cm} % Distance entre le footer et le corps du texte.
-% Redéfinition du style {plain} (seulement pied de page) :
-\fancypagestyle{plain}{
-    \fancyhf{}% Clear all.
-    \fancyfoot[CE,CO]{\fontsize{11}{12}\selectfont\thepage}
-    \renewcommand{\headrulewidth}{0pt}
-    \renewcommand{\headrule}{}
-    \setlength{\headsep}{0cm}
-}
-% Redéfintion du style {headings} (seulement entête) :
-\fancypagestyle{headings}{
-    \fancyhf{}% Clear all.
-    \fancyhead[CE]{\fontsize{11}{12}\selectfont\textsc{Benedictiones}}
-    \fancyhead[CO]{\fontsize{11}{12}\selectfont\textsc{\rightmark}}
-    \setlength{\footskip}{0cm}
-}
 
 % Style de paragraphe TitreA :
 \newenvironment{TitreA}[1]{
