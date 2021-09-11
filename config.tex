@@ -11,6 +11,10 @@
 % Hyphenations etc.:
 \usepackage[latin]{babel}
 
+% Colors:
+\usepackage{xcolor}
+\definecolor{liturgicalred}{cmyk}{0.15,1,1,0}
+
 % Formatting:
 \usepackage[explicit]{titlesec}
 \titleformat{\section}{}{}{0cm}
@@ -77,4 +81,4 @@
 %     \vspace{0.1cm}
 % }
 
-\newcommand{\Verse}[1]{\textbf{#1}}
+\newcommand{\Verse}[1]{{\color{liturgicalred}{\textbf{#1}}}}
