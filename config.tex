@@ -54,7 +54,7 @@
 \newenvironment{TitreB}[1]{
     \setlength{\parindent}{0cm}
     \setlength{\leftskip}{0cm}
-    \setlength{\parskip}{-0.3cm}
+    \setlength{\parskip}{-0.1cm}
     \fontsize{16}{18}\selectfont
     \begin{center}
         \textsc{#1}
@@ -65,20 +65,21 @@
 \newenvironment{TitreC}[1]{
     \setlength{\parindent}{0cm}
     \setlength{\leftskip}{0cm}
-    \setlength{\parskip}{0cm}
-    \fontsize{14}{18}\selectfont
+    \setlength{\parskip}{-0.1cm}
+    \fontsize{14}{16}\selectfont
     \begin{center}
         \textsc{#1}
     \end{center}
 }
 
-% % Style de paragraphe Normal :
-% \newenvironment{Normal}[1]{
-%     \setlength{\parindent}{0cm}
-%     \setlength{\leftskip}{0cm}
-%     \setlength{\parskip}{0cm}
-%     \fontsize{14}{16}\selectfont#1\par
-%     \vspace{0.1cm}
-% }
+% Style de paragraphe Normal :
+\newenvironment{Normal}[1]{
+    \setlength{\parindent}{0cm}
+    \setlength{\leftskip}{0cm}
+    \setlength{\parskip}{0cm}
+    \fontsize{14}{16}\selectfont
+    #1\par
+    \vspace{0.1cm}
+}
 
 \newcommand{\Verse}[1]{{\color{liturgicalred}{\textbf{#1}}}}
