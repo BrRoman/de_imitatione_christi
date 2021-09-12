@@ -2,7 +2,7 @@
 
 % Geometry of the page:
 \usepackage{geometry}
-\geometry{paperwidth=14.85cm, paperheight=21cm, inner=1.3cm, outer=1.3cm, tmargin=1cm, bmargin=1.5cm, includehead}
+\geometry{paperwidth=14.85cm, paperheight=21cm, inner=1.3cm, outer=1.7cm, tmargin=1cm, bmargin=1cm, includehead, includefoot}
 
 % Main font:
 \usepackage{luatextra}
@@ -19,11 +19,14 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{}
+\fancyhead[CE]{\fontsize{16}{16}\selectfont\textsc{De Imitatione Christi}}
+\fancyhead[CO]{\fontsize{16}{16}\selectfont\textsc{Liber \leftmark, caput \rightmark}}
+\fancyfoot[CE,CO]{\fontsize{16}{16}\selectfont\thepage}
 \renewcommand{\headrule}{}
 \renewcommand{\footrulewidth}{0pt}
 \setlength{\parindent}{0cm}
-\setlength{\headsep}{0.2cm} % Distance entre le header et le corps du texte.
-\setlength{\footskip}{0.6cm} % Distance entre le footer et le corps du texte.
+\setlength{\headsep}{0.7cm} % Distance between header and body.
+\setlength{\footskip}{1cm} % Distance between footer and body.
 
 % Style de paragraphe TitreA :
 \newenvironment{TitreA}[1]{
