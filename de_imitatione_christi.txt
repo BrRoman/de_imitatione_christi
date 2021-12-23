@@ -19,7 +19,7 @@ AD SPIRITUALEM VITAM UTILES
 
 
 
-CAPUT I
+LIBER I, CAPUT I
 De Imitatióne Christi
 
 et contémptu ómnium vanitátum mundi
@@ -38,7 +38,7 @@ et contémptu ómnium vanitátum mundi
 
 
 
-CAPUT II
+LIBER I, CAPUT II
 De húmili sentíre sui ipsíus
 
 
@@ -52,7 +52,7 @@ De húmili sentíre sui ipsíus
 
 
 
-CAPUT III
+LIBER I, CAPUT III
 De doctrína veritátis
 
 
@@ -70,7 +70,7 @@ De doctrína veritátis
 
 
 
-CAPUT IV
+LIBER I, CAPUT IV
 De providéntia in agéndis
 
 
@@ -80,7 +80,7 @@ De providéntia in agéndis
 
 
 
-CAPUT V
+LIBER I, CAPUT V
 De lectióne Sanctárum Scripturárum
 
 
@@ -90,7 +90,7 @@ De lectióne Sanctárum Scripturárum
 
 
 
-CAPUT VI
+LIBER I, CAPUT VI
 De inordinátis affectiónibus
 
 
@@ -100,7 +100,7 @@ De inordinátis affectiónibus
 
 
 
-CAPUT VII
+LIBER I, CAPUT VII
 De vana spe et elatióne fugiénda
 
 
@@ -112,7 +112,7 @@ De vana spe et elatióne fugiénda
 
 
 
-CAPUT VIII
+LIBER I, CAPUT VIII
 De cavénda nímia familiaritáte
 
 
@@ -122,7 +122,7 @@ De cavénda nímia familiaritáte
 
 
 
-CAPUT IX
+LIBER I, CAPUT IX
 De obœdiéntia et subiectióne
 
 
@@ -134,7 +134,7 @@ De obœdiéntia et subiectióne
 
 
 
-CAPUT X
+LIBER I, CAPUT X
 De cavénda superfluitáte verbórum
 
 
@@ -144,7 +144,7 @@ De cavénda superfluitáte verbórum
 
 
 
-CAPUT XI
+LIBER I, CAPUT XI
 De pace acquirénda et zelo proficiéndi
 
 
@@ -162,7 +162,7 @@ De pace acquirénda et zelo proficiéndi
 
 
 
-CAPUT XII
+LIBER I, CAPUT XII
 De utilitáte adversitátis
 
 
@@ -172,7 +172,7 @@ De utilitáte adversitátis
 
 
 
-CAPUT XIII
+LIBER I, CAPUT XIII
 De temptatiónibus resisténdis
 
 
@@ -194,7 +194,7 @@ De temptatiónibus resisténdis
 
 
 
-CAPUT XIV
+LIBER I, CAPUT XIV
 De temerário iudício vitándo
 
 
@@ -206,7 +206,7 @@ De temerário iudício vitándo
 
 
 
-CAPUT XV
+LIBER I, CAPUT XV
 De opéribus ex caritáte factis
 
 
@@ -218,7 +218,7 @@ De opéribus ex caritáte factis
 
 
 
-CAPUT XVI
+LIBER I, CAPUT XVI
 De sufferéntia deféctuum aliórum
 
 
@@ -232,7 +232,7 @@ De sufferéntia deféctuum aliórum
 
 
 
-CAPUT XVII
+LIBER I, CAPUT XVII
 De monástica vita
 
 
@@ -244,7 +244,7 @@ De monástica vita
 
 
 
-CAPUT XVIII
+LIBER I, CAPUT XVIII
 De exémplis sanctórum patrum
 
 
@@ -262,7 +262,7 @@ De exémplis sanctórum patrum
 
 
 
-CAPUT XIX
+LIBER I, CAPUT XIX
 De exercítiis boni religiósi
 
 
@@ -282,7 +282,7 @@ De exercítiis boni religiósi
 
 
 
-CAPUT XX
+LIBER I, CAPUT XX
 De amóre solitúdinis et siléntii
 
 
@@ -304,7 +304,7 @@ De amóre solitúdinis et siléntii
 
 
 
-CAPUT XXI
+LIBER I, CAPUT XXI
 De compunctióne cordis
 
 
@@ -322,7 +322,7 @@ De compunctióne cordis
 
 
 
-CAPUT XXII
+LIBER I, CAPUT XXII
 De consideratióne humánæ misériæ
 
 
@@ -342,7 +342,7 @@ De consideratióne humánæ misériæ
 
 
 
-CAPUT XXIII
+LIBER I, CAPUT XXIII
 De meditatióne mortis
 
 
@@ -366,7 +366,7 @@ De meditatióne mortis
 
 
 
-CAPUT XXIV
+LIBER I, CAPUT XXIV
 De iudício et pœnis peccatórum
 
 
@@ -386,7 +386,7 @@ De iudício et pœnis peccatórum
 
 
 
-CAPUT XXV
+LIBER I, CAPUT XXV
 De fervénti emendatióne totíus vitæ nostræ
 
 
@@ -420,7 +420,7 @@ ADMONITIONES AD INTERNA TRAHENTES
 
 
 
-CAPUT I
+LIBER II, CAPUT I
 De intérna conversatióne
 
 
@@ -442,7 +442,7 @@ De intérna conversatióne
 
 
 
-CAPUT II
+LIBER II, CAPUT II
 De húmili submissióne
 
 
@@ -452,7 +452,7 @@ De húmili submissióne
 
 
 
-CAPUT III
+LIBER II, CAPUT III
 De bono pacífico hómine
 
 
@@ -464,7 +464,7 @@ De bono pacífico hómine
 
 
 
-CAPUT IV
+LIBER II, CAPUT IV
 De pura mente et símplici intentióne
 
 
@@ -476,7 +476,7 @@ De pura mente et símplici intentióne
 
 
 
-CAPUT V
+LIBER II, CAPUT V
 De própria consideratióne
 
 
@@ -488,7 +488,7 @@ De própria consideratióne
 
 
 
-CAPUT VI
+LIBER II, CAPUT VI
 De lætítia bonæ consciéntiæ
 
 
@@ -502,7 +502,7 @@ De lætítia bonæ consciéntiæ
 
 
 
-CAPUT VII
+LIBER II, CAPUT VII
 De amóre Iesu super ómnia
 
 
@@ -514,7 +514,7 @@ De amóre Iesu super ómnia
 
 
 
-CAPUT VIII
+LIBER II, CAPUT VIII
 De familiári amicítia Iesu
 
 
@@ -530,7 +530,7 @@ De familiári amicítia Iesu
 
 
 
-CAPUT IX
+LIBER II, CAPUT IX
 De caréntia omnis solácii
 
 
@@ -552,7 +552,7 @@ De caréntia omnis solácii
 
 
 
-CAPUT X
+LIBER II, CAPUT X
 De gratitudine pro grátia Dei
 
 
@@ -568,7 +568,7 @@ De gratitudine pro grátia Dei
 
 
 
-CAPUT XI
+LIBER II, CAPUT XI
 De paucitáte amatórum crucis Iesu
 
 
@@ -584,7 +584,7 @@ De paucitáte amatórum crucis Iesu
 
 
 
-CAPUT XII
+LIBER II, CAPUT XII
 De régia via sanctæ crucis
 
 
@@ -626,7 +626,7 @@ DE INTERNA CONSOLATIONE
 
 
 
-CAPUT I
+LIBER III, CAPUT I
 De intérna Christi locutióne ad ánimam fidélem
 
 
@@ -636,7 +636,7 @@ De intérna Christi locutióne ad ánimam fidélem
 
 
 
-CAPUT II
+LIBER III, CAPUT II
 Quod véritas intus lóquitur sine strépitu verbórum
 
 
@@ -648,7 +648,7 @@ Quod véritas intus lóquitur sine strépitu verbórum
 
 
 
-CAPUT III
+LIBER III, CAPUT III
 Quod verba Dei cum humilitáte sunt audiénda, et quod multi ea non pónderant
 
 
@@ -669,7 +669,7 @@ Orátio ad implorándam devotiónis grátiam
 
 
 
-CAPUT IV
+LIBER III, CAPUT IV
 Quod in veritáte et humilitáte coram Deo conversándum est
 
 
@@ -684,7 +684,7 @@ Dómine, verum est, sicut dicis; ita, quæso, mecum fiat. Véritas tua me dócea
 
 
 
-CAPUT V
+LIBER III, CAPUT V
 De mirábili efféctu divíni amóris
 
 
@@ -707,7 +707,7 @@ De mirábili efféctu divíni amóris
 
 
 
-CAPUT VI
+LIBER III, CAPUT VI
 De probatióne veri amatóris
 
 
@@ -725,7 +725,7 @@ Quia propter módicam contrarietátem déficis a cœptis, et nimis ávide consol
 
 
 
-CAPUT VII
+LIBER III, CAPUT VII
 De occultánda grátia sub humilitátis custódia
 
 
@@ -741,7 +741,7 @@ De occultánda grátia sub humilitátis custódia
 
 
 
-CAPUT VIII
+LIBER III, CAPUT VIII
 De vili æstimatióne sui ipsíus in óculis Dei
 
 
@@ -753,7 +753,7 @@ De vili æstimatióne sui ipsíus in óculis Dei
 
 
 
-CAPUT IX
+LIBER III, CAPUT IX
 Quod ómnia ad Deum, sicut ad finem últimum, sunt referénda
 
 
@@ -765,7 +765,7 @@ Quod ómnia ad Deum, sicut ad finem últimum, sunt referénda
 
 
 
-CAPUT X
+LIBER III, CAPUT X
 Quod spreto mundo dulce est servíre Deo
 
 
@@ -783,7 +783,7 @@ Quod spreto mundo dulce est servíre Deo
 
 
 
-CAPUT XI
+LIBER III, CAPUT XI
 Quod desidéria cordis examinánda sunt et moderánda
 
 
@@ -797,7 +797,7 @@ Ut desidérium tuum ponas totáliter secúndum beneplácitum meum, et tui ipsíu
 
 
 
-CAPUT XII
+LIBER III, CAPUT XII
 De informatióne patiéntiæ et luctámine advérsus concupiscéntias
 
 
@@ -813,7 +813,7 @@ De informatióne patiéntiæ et luctámine advérsus concupiscéntias
 
 
 
-CAPUT XIII
+LIBER III, CAPUT XIII
 De obœdiéntia húmilis súbditi ad exémplum Iesu Christi
 
 
@@ -825,7 +825,7 @@ De obœdiéntia húmilis súbditi ad exémplum Iesu Christi
 
 
 
-CAPUT XIV
+LIBER III, CAPUT XIV
 De occúltis Dei iudíciis considerándis, ne extollámur in bonis
 
 
@@ -839,7 +839,7 @@ De occúltis Dei iudíciis considerándis, ne extollámur in bonis
 
 
 
-CAPUT XV
+LIBER III, CAPUT XV
 Quáliter standum sit ac dicéndum in omni re desiderábili
 
 
@@ -854,7 +854,7 @@ Orátio pro beneplácito Dei perficiéndo
 
 
 
-CAPUT XVI
+LIBER III, CAPUT XVI
 Quod verum solácium in solo Deo est quæréndum
 
 
@@ -864,7 +864,7 @@ Quod verum solácium in solo Deo est quæréndum
 
 
 
-CAPUT XVII
+LIBER III, CAPUT XVII
 Quod omnis sollicitúdo in Deo statuénda sit
 
 
@@ -878,7 +878,7 @@ Quod omnis sollicitúdo in Deo statuénda sit
 
 
 
-CAPUT XVIII
+LIBER III, CAPUT XVIII
 Quod temporáles misériæ exémplo Christi æquanímiter sunt feréndæ
 
 
@@ -890,7 +890,7 @@ Quod temporáles misériæ exémplo Christi æquanímiter sunt feréndæ
 
 
 
-CAPUT XIX
+LIBER III, CAPUT XIX
 De tolerántia iniuriárum, et quis verus pátiens probétur
 
 
@@ -906,7 +906,7 @@ De tolerántia iniuriárum, et quis verus pátiens probétur
 
 
 
-CAPUT XX
+LIBER III, CAPUT XX
 De confessióne própriæ infirmitátis et huius vitæ misériis
 
 
@@ -922,7 +922,7 @@ De confessióne própriæ infirmitátis et huius vitæ misériis
 
 
 
-CAPUT XXI
+LIBER III, CAPUT XXI
 Quod in Deo super ómnia bona et dona requiescéndum est
 
 
@@ -942,7 +942,7 @@ Quod in Deo super ómnia bona et dona requiescéndum est
 
 
 
-CAPUT XXII
+LIBER III, CAPUT XXII
 De recordatióne multiplícium beneficiórum Dei
 
 
@@ -958,7 +958,7 @@ De recordatióne multiplícium beneficiórum Dei
 
 
 
-CAPUT XXIII
+LIBER III, CAPUT XXIII
 De quátuor magnam importántibus pacem
 
 
@@ -986,7 +986,7 @@ Orátio pro illuminatióne mentis
 
 
 
-CAPUT XXIV
+LIBER III, CAPUT XXIV
 De evitatióne curiósæ inquisitiónis super altérius vita
 
 
@@ -996,7 +996,7 @@ De evitatióne curiósæ inquisitiónis super altérius vita
 
 
 
-CAPUT XXV
+LIBER III, CAPUT XXV
 In quibus firma pax cordis et verus proféctus consístit
 
 
@@ -1012,7 +1012,7 @@ In quibus firma pax cordis et verus proféctus consístit
 
 
 
-CAPUT XXVI
+LIBER III, CAPUT XXVI
 De eminéntia líberæ mentis, quam supplex orátio magis merétur, quam léctio
 
 
@@ -1026,7 +1026,7 @@ De eminéntia líberæ mentis, quam supplex orátio magis merétur, quam léctio
 
 
 
-CAPUT XXVII
+LIBER III, CAPUT XXVII
 Quod privátus amor a summo bono máxime retárdat
 
 
@@ -1043,7 +1043,7 @@ Orátio pro purgatióne cordis et cælésti sapiéntia
 
 
 
-CAPUT XXVIII
+LIBER III, CAPUT XXVIII
 Contra linguas obtrectatórum
 
 
@@ -1053,7 +1053,7 @@ Contra linguas obtrectatórum
 
 
 
-CAPUT XXIX
+LIBER III, CAPUT XXIX
 Quáliter instánte tribulatióne Deus invocándus est et benedicéndus
 
 
@@ -1063,7 +1063,7 @@ Quáliter instánte tribulatióne Deus invocándus est et benedicéndus
 
 
 
-CAPUT XXX
+LIBER III, CAPUT XXX
 De divíno peténdo auxílio et confidéntia recuperándæ grátiæ
 
 
@@ -1081,7 +1081,7 @@ De divíno peténdo auxílio et confidéntia recuperándæ grátiæ
 
 
 
-CAPUT XXXI
+LIBER III, CAPUT XXXI
 De negléctu omnis creatúræ, ut Creátor possit inveníri
 
 
@@ -1097,7 +1097,7 @@ De negléctu omnis creatúræ, ut Creátor possit inveníri
 
 
 
-CAPUT XXXII
+LIBER III, CAPUT XXXII
 De abnegatióne sui et abdicatióne omnis cupiditátis
 
 
@@ -1111,7 +1111,7 @@ De abnegatióne sui et abdicatióne omnis cupiditátis
 
 
 
-CAPUT XXXIII
+LIBER III, CAPUT XXXIII
 De instabilitáte cordis et de intentióne fináli ad Deum habénda
 
 
@@ -1121,7 +1121,7 @@ De instabilitáte cordis et de intentióne fináli ad Deum habénda
 
 
 
-CAPUT XXXIV
+LIBER III, CAPUT XXXIV
 Quod amánti sapit Deus super ómnia et in ómnibus
 
 
@@ -1135,7 +1135,7 @@ Quod amánti sapit Deus super ómnia et in ómnibus
 
 
 
-CAPUT XXXV
+LIBER III, CAPUT XXXV
 Quod non est secúritas a temptatióne in hac vita
 
 
@@ -1147,7 +1147,7 @@ Quod non est secúritas a temptatióne in hac vita
 
 
 
-CAPUT XXXVI
+LIBER III, CAPUT XXXVI
 Contra vana hóminum iudícia
 
 
@@ -1159,7 +1159,7 @@ Contra vana hóminum iudícia
 
 
 
-CAPUT XXXVII
+LIBER III, CAPUT XXXVII
 De pura et íntegra resignatione sui ad obtinéndam cordis libertátem
 
 
@@ -1175,7 +1175,7 @@ De pura et íntegra resignatione sui ad obtinéndam cordis libertátem
 
 
 
-CAPUT XXXVIII
+LIBER III, CAPUT XXXVIII
 De bono regímine in extérnis et recúrsu ad Deum in perículis
 
 
@@ -1185,7 +1185,7 @@ De bono regímine in extérnis et recúrsu ad Deum in perículis
 
 
 
-CAPUT XXXIX
+LIBER III, CAPUT XXXIX
 Quod homo non sit importúnus in negótiis
 
 
@@ -1199,7 +1199,7 @@ Quod homo non sit importúnus in negótiis
 
 
 
-CAPUT XL
+LIBER III, CAPUT XL
 Quod homo nihil boni ex se habet et de nullo gloriári potest
 
 
@@ -1217,7 +1217,7 @@ Quod homo nihil boni ex se habet et de nullo gloriári potest
 
 
 
-CAPUT XLI
+LIBER III, CAPUT XLI
 De contémptu omnis temporális honóris
 
 
@@ -1227,7 +1227,7 @@ De contémptu omnis temporális honóris
 
 
 
-CAPUT XLII
+LIBER III, CAPUT XLII
 Quod pax non est ponénda in homínibus
 
 
@@ -1238,7 +1238,7 @@ est vera et munda diléctio, quam ego non cópulo. Ita mórtuus debes esse táli
 
 
 
-CAPUT XLIII
+LIBER III, CAPUT XLIII
 Contra vanam et sæculárem sciéntiam
 
 
@@ -1252,7 +1252,7 @@ Contra vanam et sæculárem sciéntiam
 
 
 
-CAPUT XLIV
+LIBER III, CAPUT XLIV
 De non attrahéndo sibi res exterióres
 
 
@@ -1262,7 +1262,7 @@ De non attrahéndo sibi res exterióres
 
 
 
-CAPUT XLV
+LIBER III, CAPUT XLV
 Quod ómnibus non est credéndum, et de fácili lapsu verbórum
 
 
@@ -1278,7 +1278,7 @@ Quod ómnibus non est credéndum, et de fácili lapsu verbórum
 
 
 
-CAPUT XLVI
+LIBER III, CAPUT XLVI
 De confidéntia in Deo habénda, quando insúrgunt verbórum iácula
 
 
@@ -1294,7 +1294,7 @@ De confidéntia in Deo habénda, quando insúrgunt verbórum iácula
 
 
 
-CAPUT XLVII
+LIBER III, CAPUT XLVII
 Quod ómnia grávia pro ætérna vita sunt toleránda
 
 
@@ -1308,7 +1308,7 @@ Quod ómnia grávia pro ætérna vita sunt toleránda
 
 
 
-CAPUT XLVIII
+LIBER III, CAPUT XLVIII
 De die æternitátis et huius vitæ angústiis
 
 
@@ -1326,7 +1326,7 @@ De die æternitátis et huius vitæ angústiis
 
 
 
-CAPUT XLIX
+LIBER III, CAPUT XLIX
 De desidério ætérnæ vitæ, et quanta sint certántibus bona promíssa
 
 
@@ -1346,7 +1346,7 @@ De desidério ætérnæ vitæ, et quanta sint certántibus bona promíssa
 
 
 
-CAPUT L
+LIBER III, CAPUT L
 Quáliter homo desolátus se debet in manus Dei offérre
 
 
@@ -1368,7 +1368,7 @@ Quáliter homo desolátus se debet in manus Dei offérre
 
 
 
-CAPUT LI
+LIBER III, CAPUT LI
 Quod humílibus insisténdum est opéribus, cum defícitur a summis
 
 
@@ -1378,7 +1378,7 @@ Quod humílibus insisténdum est opéribus, cum defícitur a summis
 
 
 
-CAPUT LII
+LIBER III, CAPUT LII
 Quod homo non réputet se consolatióne dignum, sed magis verbéribus reum
 
 
@@ -1392,7 +1392,7 @@ Quod homo non réputet se consolatióne dignum, sed magis verbéribus reum
 
 
 
-CAPUT LIII
+LIBER III, CAPUT LIII
 Quod grátia Dei non miscétur terréna sapiéntibus
 
 
@@ -1404,7 +1404,7 @@ Quod grátia Dei non miscétur terréna sapiéntibus
 
 
 
-CAPUT LIV
+LIBER III, CAPUT LIV
 De divérsis mótibus natúræ et grátiæ
 
 
@@ -1444,7 +1444,7 @@ De divérsis mótibus natúræ et grátiæ
 
 
 
-CAPUT LV
+LIBER III, CAPUT LV
 De corruptióne natúræ et efficácia grátiæ divínæ
 
 
@@ -1462,7 +1462,7 @@ De corruptióne natúræ et efficácia grátiæ divínæ
 
 
 
-CAPUT LVI
+LIBER III, CAPUT LVI
 Quod nos ipsos abnegáre et Christum imitári debémus per crucem
 
 
@@ -1480,7 +1480,7 @@ Quod nos ipsos abnegáre et Christum imitári debémus per crucem
 
 
 
-CAPUT LVII
+LIBER III, CAPUT LVII
 Quod homo non sit nimis dejéctus, quando in áliquos lábitur deféctus
 
 
@@ -1494,7 +1494,7 @@ Quod homo non sit nimis dejéctus, quando in áliquos lábitur deféctus
 
 
 
-CAPUT LVIII
+LIBER III, CAPUT LVIII
 De altióribus rebus et occúltis iudíciis Dei non scrutándis
 
 
@@ -1520,7 +1520,7 @@ De altióribus rebus et occúltis iudíciis Dei non scrutándis
 
 
 
-CAPUT LIX
+LIBER III, CAPUT LIX
 Quod omnis spes et fidúcia in solo Deo est figénda
 
 
@@ -1543,7 +1543,7 @@ Veníte ad me, omnes, qui laborátis et oneráti estis, et ego refíciam vos, di
 
 
 
-CAPUT I
+LIBER IV, CAPUT I
 Cum quanta reveréntia Christus sit suscipiéndus
 Vox discípuli.
 
@@ -1576,7 +1576,7 @@ Vox discípuli.
 
 
 
-CAPUT II
+LIBER IV, CAPUT II
 Quod magna bónitas et cáritas Dei in sacraménto hómini exhibétur
 Vox discípuli.
 
@@ -1595,7 +1595,7 @@ Vox discípuli.
 
 
 
-CAPUT III
+LIBER IV, CAPUT III
 Quod útile sit sæpe communicáre
 Vox discípuli.
 
@@ -1610,7 +1610,7 @@ Vox discípuli.
 
 
 
-CAPUT IV
+LIBER IV, CAPUT IV
 Quod multa bona præstántur devóte communicántibus
 Vox discípuli.
 
@@ -1627,7 +1627,7 @@ Vox discípuli.
 
 
 
-CAPUT V
+LIBER IV, CAPUT V
 De dignitáte sacraménti et statu sacerdotáli
 Vox discípuli.
 
@@ -1640,7 +1640,7 @@ Vox discípuli.
 
 
 
-CAPUT VI
+LIBER IV, CAPUT VI
 Interrogátio de exercítio ante communiónem
 Vox discípuli.
 
@@ -1651,7 +1651,7 @@ Vox discípuli.
 
 
 
-CAPUT VII
+LIBER IV, CAPUT VII
 De discussióne própriæ consciéntiæ et emendatiónis propósito
 Vox dilécti.
 
@@ -1666,7 +1666,7 @@ Vox dilécti.
 
 
 
-CAPUT VIII
+LIBER IV, CAPUT VIII
 De oblatióne Christi in cruce et própria resignatione
 Vox dilécti.
 
@@ -1677,7 +1677,7 @@ Vox dilécti.
 
 
 
-CAPUT IX
+LIBER IV, CAPUT IX
 Quod nos et ómnia nostra Deo debémus offérre et pro ómnibus oráre
 Vox discípuli.
 
@@ -1696,7 +1696,7 @@ Vox discípuli.
 
 
 
-CAPUT X
+LIBER IV, CAPUT X
 Quod sacra commúnio de fácili non est relinquénda
 Vox dilécti.
 
@@ -1717,7 +1717,7 @@ Vox dilécti.
 
 
 
-CAPUT XI
+LIBER IV, CAPUT XI
 Quod corpus Christi et sacra scriptúra máxime sint ánimæ fidéli necessária
 Vox discípuli.
 
@@ -1740,7 +1740,7 @@ Vox discípuli.
 
 
 
-CAPUT XII
+LIBER IV, CAPUT XII
 Quod magna diligéntia se débeat communicatúrus Christo præparáre
 Vox dilécti.
 
@@ -1755,7 +1755,7 @@ Vox dilécti.
 
 
 
-CAPUT XIII
+LIBER IV, CAPUT XIII
 Quod toto corde ánima devóta Christi uniónem in sacraménto affectáre debet
 Vox discípuli.
 
@@ -1768,7 +1768,7 @@ Vox discípuli.
 
 
 
-CAPUT XIV
+LIBER IV, CAPUT XIV
 De quorundam devotórum ardénti desidério ad Corpus Christi
 Vox discípuli.
 
@@ -1781,7 +1781,7 @@ Vox discípuli.
 
 
 
-CAPUT XV
+LIBER IV, CAPUT XV
 Quod grátia devotiónis humilitáte et sui ipsíus abnegatióne acquíritur
 Vox dilécti.
 
@@ -1796,7 +1796,7 @@ Vox dilécti.
 
 
 
-CAPUT XVI
+LIBER IV, CAPUT XVI
 Quod necessitátes nostras Christo aperíre et eius grátiam postuláre debémus
 Vox discípuli.
 
@@ -1809,7 +1809,7 @@ Vox discípuli.
 
 
 
-CAPUT XVII
+LIBER IV, CAPUT XVII
 De ardénti amóre et veheménti afféctu suscipiéndi Christum
 Vox discípuli.
 
@@ -1826,7 +1826,7 @@ Vox discípuli.
 
 
 
-CAPUT XVIII
+LIBER IV, CAPUT XVIII
 Quod homo non sit curiósus scrutátor sacraménti, sed húmilis imitátor Christi, subdéndo sensum suum sacræ fídei
 Vox dilécti.
 
