@@ -21,6 +21,7 @@ sed -i "s/\\\\Normal{\(.*\)}/\1/g" "de_imitatione_christi.txt"
 sed -i "s/\\\\Verse{\(.*\)}/\1/g" "de_imitatione_christi.txt"
 sed -i "s/\\\\vspace{\(.*\)}//g" "de_imitatione_christi.txt"
 sed -i "s/~//g" "de_imitatione_christi.txt"
+sed -i "s/%//g" "de_imitatione_christi.txt"
 sed -i "s/\\\\end{document}//g" "de_imitatione_christi.txt"
 
 lualatex --shell-escape de_imitatione_christi.tex
